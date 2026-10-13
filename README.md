@@ -7,7 +7,7 @@ xo-ico离线图标生成器：把一张（或多张）位图批量转换、缩�
 | 项目 | 值 |
 | --- | --- |
 | 包名 | `ico-generator` |
-| 版本 | 3.0.0 |
+| 版本 | 1.0.0 |
 | 语言 / 版本 | Rust · edition 2021 · MSRV 1.80 |
 | 界面框架 | `eframe` / `egui` 0.36（原生窗口） |
 | 产物 | Windows `ico_generator.exe`（release 约 **10.5 MB**） |
